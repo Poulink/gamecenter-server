@@ -1,2 +1,0 @@
-# gamecenter-server
-server
